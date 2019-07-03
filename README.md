@@ -6,7 +6,7 @@
 
 * [Information](#information)
 * [What is Machine Learning ?](#what-is-machine-learning) 
-* [Algorithms of Machine Learning ?](#algorithms-of-machine-learning)
+* [Algorithms of Machine Learning](#algorithms-of-machine-learning)
 * [Colleges](#colloges)
 * [MOOC's](#moocs)
 * [Data Sets ](#data-sets)
