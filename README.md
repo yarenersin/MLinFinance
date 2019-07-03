@@ -6,7 +6,7 @@
 
 * [Information](#information)
 * [What is Machine Learning ?](#what-is-machine-learning)
-* [The relationship between ML and Finance] (#the-relationship-ml-and-finance) 
+* [The relationship between ML and Finance] (#the-relationship-between-ml-and-finance) 
 * [Colleges](#colloges)
 * [MOOC's](#moocs)
 * [Data Sets ](#data-sets)
@@ -29,6 +29,7 @@
 ## Information
 
 *This part is for coders who are new to Machine Learning*
+
 These questions should be answered at first, "What is Machine Learning?, What should I study to learn Machine Learning?, What is Finance?, What is the relationship between Machine Learning and Finance? "
 
 First of all, Machine Learning is a subset of Artificial Intelligence. ML is a method paradigm that makes inferences from existing data using mathematical and statistical methods and makes predictions about what is not known with these inferences.
