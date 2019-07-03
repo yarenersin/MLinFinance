@@ -6,7 +6,7 @@
 
 * [Information](#information)
 * [What is Machine Learning ?](#what-is-machine-learning)
-* [The relationship between ML and Finance] (#the-relationship-between-ml-and-finance) 
+* [The relationship between Machine Learning and Finance] (#the-relationship-between-machine-learning-and-finance) 
 * [Colleges](#colloges)
 * [MOOC's](#moocs)
 * [Data Sets ](#data-sets)
@@ -34,4 +34,4 @@ These questions should be answered at first, "What is Machine Learning?, What sh
 
 First of all, Machine Learning is a subset of Artificial Intelligence. ML is a method paradigm that makes inferences from existing data using mathematical and statistical methods and makes predictions about what is not known with these inferences.
 
-Secondly, Our favorite programming language is *Python* nowadays for #MachineLearning.[Pandas](http://pandas.pydata.org/), [Numpy](https://www.numpy.org/), [Scikit learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/) are Python Libraries which is used in Machine Learning.
+Secondly, Our favorite programming language is *Python* nowadays for #MachineLearning.[Pandas](http://pandas.pydata.org/), [Numpy](https://www.numpy.org/), [Scikit learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/) are Python Libraries which are used in Machine Learning.
