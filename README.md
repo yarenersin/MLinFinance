@@ -5,7 +5,8 @@
 ### Contents
 
 * [Information](#information)
-* [What is Machine Learning ?](#what-is-machine-learning) 
+* [What is Machine Learning ?](#what-is-machine-learning)
+* [The relationship between Machine Learning and Finance](#the-relationship-between-machine-learning-and-finance)
 * [Colleges](#colloges)
 * [MOOC's](#moocs)
 * [Bloggers](#bloggers)
