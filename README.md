@@ -42,4 +42,11 @@ Secondly, Our favorite programming language is *Python* nowadays for #MachineLea
 * [Machine Learning @WikiZero](https://www.wikizero.com/en/Machine_learning)
 * [Machine Learning @sas](https://www.sas.com/tr_tr/insights/analytics/machine-learning.html#machine-learning-today-world)
 * [Artificial Intelligence and Machine Learning @internetsociety](https://www.internetsociety.org/resources/doc/2017/artificial-intelligence-and-machine-learning-policy-paper/?gclid=CjwKCAjwx_boBRA9EiwA4kIELn_Zx8LxppkZt0l8Dh6icxteCbz-fMEU-QgpATf8Xtjp1K7XU7v2YBoC4EgQAvD_BwE)
+* [A Short History of Machine Learning](https://www.forbes.com/sites/bernardmarr/2016/02/19/a-short-history-of-machine-learning-every-manager-should-read/#401adda515e7)
+
+
+## Colleges
+
+
+
 
