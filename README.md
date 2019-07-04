@@ -40,3 +40,5 @@ Secondly, Our favorite programming language is *Python* nowadays for #MachineLea
 
 * [What is Machine Learning @ Quora](https://www.quora.com/What-is-machine-learning-4)
 * [Machine Learning @WikiZero](https://www.wikizero.com/en/Machine_learning)
+* [Machine Learning @sas](https://www.sas.com/tr_tr/insights/analytics/machine-learning.html#machine-learning-today-world)
+
