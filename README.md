@@ -45,6 +45,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #MachineLea
 
 ## Colleges
 
+* [A list of colleges and universities offering degrees in data science.]
 
 
 
