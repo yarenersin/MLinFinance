@@ -44,6 +44,14 @@ Secondly, Our favorite programming language is *Python* nowadays for #MachineLea
 * [A Short History of Machine Learning](https://www.forbes.com/sites/bernardmarr/2016/02/19/a-short-history-of-machine-learning-every-manager-should-read/#401adda515e7)
 
 
+## The Relationship Machine Learning and Finance
+
+
+
+
+
+
+
 ## Colleges
 
 * A list of colleges and universities offering degrees in Machine Learning
