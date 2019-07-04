@@ -46,17 +46,44 @@ Secondly, Our favorite programming language is *Python* nowadays for #MachineLea
 
 ## Algorithms of ML
 
-* Linear Regression
-* Logistic Regression
-* Decision Tree
-* Support Vector Machine
-* Naive Bayes
-* K- Nearest Neighbors
-* K-Means
-* Random Forest
-* Dimensionality Reduction Algorithms
-* Gradient Boosting & AdaBoost
+These are some Machine Learning algorithms and models
 
+### Supervised Learning : All data is labeled and the algorithms learn to predict the output from the input data.
+- Regression
+ - Linear Regression 
+ - Ordinary Least Squares
+ - Logistic Regression
+ - Stepwise Regression
+ - Multivariate Adaptive Regression Splines 
+  - Locally Estimated Scatterplot Smoothing 
+- Classification
+  - k-nearest neighbor
+  - Support Vector Machines
+  - Decision Trees 
+   - ID3 algorithm
+   - C4.5 algorithm
+- Ensemble Learning
+ - Boosting
+ - Bagging
+ - Random Forest
+ - AdaBoost
+
+### Unsupervised Learning : All data is unlabeled and the algorithms learn to inherent structure from the input data.
+- Clustering
+  - Hierchical clustering
+  - k-means
+  - Fuzzy clustering
+  - Mixture models
+- Neural Networks
+ - Self-organizing map
+ - Adaptive resonance theory
+
+### Semi-Supervised Learning : Some data is labeled but most of it is unlabeled and a mixture of supervised and unsupervised techniques can be used.
+
+### Reinforcement Learning
+- Q Learning
+- SARSA (State-Action-Reward-State-Action) algorithm
+- Temporal difference learning
 
 
 ## The Relationship Machine Learning and Finance 
@@ -69,6 +96,12 @@ Secondly, Our favorite programming language is *Python* nowadays for #MachineLea
 * A list of colleges and universities offering degrees in Machine Learning
 
 * [Stanford University (Stanford, CA)](https://online.stanford.edu/courses/cs229-machine-learning)
+
+
+
+## MOOC'S
+
+
 
 
 
