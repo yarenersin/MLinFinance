@@ -46,25 +46,22 @@ Secondly, Our favorite programming language is *Python* nowadays for #MachineLea
 
 ## Algorithms of ML
 
-* Linear Regression
-* Logistic Regression
-* Decision Tree
-* Support Vector Machine
-* Naive Bayes
-* K- Nearest Neighbors
-* K-Means
-* Random Forest
-* Dimensionality Reduction Algorithms
-* Gradient Boosting & AdaBoost
+ Linear Regression
+ Logistic Regression
+ Decision Tree
+ Support Vector Machine
+ Naive Bayes
+ K- Nearest Neighbors
+ K-Means
+ Random Forest
+ Dimensionality Reduction Algorithms
+ Gradient Boosting & AdaBoost
 
 
 
-## The Relationship Machine Learning and Finance
+## The Relationship Machine Learning and Finance 
 
-
-
-
-
+* [Machine learning in finance: Why, what & how](https://towardsdatascience.com/machine-learning-in-finance-why-what-how-d524a2357b56)
 
 
 ## Colleges
