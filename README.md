@@ -68,7 +68,8 @@ Secondly, Our favorite programming language is *Python* nowadays for #MachineLea
 
 * A list of colleges and universities offering degrees in Machine Learning
 
-* [Stanford University (Stanford, CA)](https://www.stanford.edu/)
+* [Stanford University (Stanford, CA)](https://online.stanford.edu/courses/cs229-machine-learning)
+
 
 
 
