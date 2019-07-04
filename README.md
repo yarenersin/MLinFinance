@@ -41,8 +41,10 @@ Secondly, Our favorite programming language is *Python* nowadays for #MachineLea
 * [What is Machine Learning @ Quora](https://www.quora.com/What-is-machine-learning-4)
 * [Machine Learning @WikiZero](https://www.wikizero.com/en/Machine_learning)
 * [Machine Learning @sas](https://www.sas.com/tr_tr/insights/analytics/machine-learning.html#machine-learning-today-world)
+* [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
 * [Artificial Intelligence and Machine Learning @internetsociety](https://www.internetsociety.org/resources/doc/2017/artificial-intelligence-and-machine-learning-policy-paper/?gclid=CjwKCAjwx_boBRA9EiwA4kIELn_Zx8LxppkZt0l8Dh6icxteCbz-fMEU-QgpATf8Xtjp1K7XU7v2YBoC4EgQAvD_BwE)
 * [A Short History of Machine Learning](https://www.forbes.com/sites/bernardmarr/2016/02/19/a-short-history-of-machine-learning-every-manager-should-read/#401adda515e7)
+
 
 ## Algorithms of ML
 
@@ -77,14 +79,17 @@ These are some Machine Learning algorithms and models
 - Neural Networks
  - Self-organizing map
  - Adaptive resonance theory
-
+ 
 ### Semi-Supervised Learning : Some data is labeled but most of it is unlabeled and a mixture of supervised and unsupervised techniques can be used.
 
 ### Reinforcement Learning
 - Q Learning
 - SARSA (State-Action-Reward-State-Action) algorithm
 - Temporal difference learning
+- Genetic algorithm
+- Deep Q-Network(DQN)
 
+In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png)
 
 ## The Relationship Machine Learning and Finance 
 
