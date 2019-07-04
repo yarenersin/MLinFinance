@@ -6,6 +6,7 @@
 
 * [Information](#information)
 * [What is Machine Learning ?](#what-is-machine-learning)
+* [Algorithms of ML](#algorithms-of-ml)
 * [The relationship between Machine Learning and Finance](#the-relationship-between-machine-learning-and-finance)
 * [Colleges](#colloges)
 * [MOOC's](#moocs)
